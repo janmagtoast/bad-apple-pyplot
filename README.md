@@ -1,6 +1,9 @@
 # bad-apple-pyplot
 This was made for a bonus exercise for one of my comp classes in uni and also made in about 5 hours total on a tuesday.
 
+Video of it running:
+https://www.youtube.com/watch?v=A_0u4seGtuY
+
 It used to be plottet inside a gift box but this is just the stripped down version, including only the code I have written myself. The code is mostly the same as the 5 hour version still. I just translated a couple of comments to english and changed filenames.
 
 Enjoy!
